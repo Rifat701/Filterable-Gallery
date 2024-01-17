@@ -44,6 +44,8 @@ body{
 }
 
 
+/************************ Responsive Start ************************/
+
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     #btns {
@@ -63,7 +65,6 @@ body{
         width: 180px;
         height: 150px;
     }
-    
 }
 
 
@@ -106,6 +107,7 @@ body{
         width: 108px;
         height: 80px;
     }
-
-
 }
+
+
+/************************ Responsive End ************************/
